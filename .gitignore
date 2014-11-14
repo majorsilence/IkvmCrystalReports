@@ -181,3 +181,16 @@ UpgradeLog*.htm
 
 # Microsoft Fakes
 FakesAssemblies/
+
+# Created by https://www.gitignore.io
+
+### XamarinStudio ###
+bin/
+obj/
+*.userprefs
+
+
+
+#  non visual studio
+downloadedfiles/
+
