@@ -5,7 +5,7 @@ set -u # exit on using unset variable
 mkdir downloadedfiles
 cd downloadedfiles
 
-wget -O ikvm.zip "http://downloads.sourceforge.net/project/ikvm/ikvm/7.2.4630.5/ikvmbin-7.2.4630.5.zip?r=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fikvm%2Ffiles%2F&ts=1403363031&use_mirror=superb-dca2"
+wget -O ikvm.zip "http://www.frijters.net/ikvmbin-8.1.5717.0.zip"
 unzip ikvm.zip -d ./ikvm
 rm -f ikvm.zip
 
